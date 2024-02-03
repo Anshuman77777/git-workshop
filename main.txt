@@ -2,7 +2,12 @@
 
 
 
+<<<<<<< HEAD
 COnflict
 COnflict
 COnflict
 COnflict
+=======
+
+THis will conflict
+>>>>>>> branch1
